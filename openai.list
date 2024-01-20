@@ -9,5 +9,4 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,civitai.com
 # copilot
 IP-CIDR,202.89.232.0/21
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-KEYWORD,copilot
